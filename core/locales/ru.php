@@ -17,6 +17,7 @@ return array(
     // update records
     'Update Record'                => 'Обновить запись',
     'update_record_instructions'   => 'Измените значения и отправьте, чтобы обновить запись.',
+    'Edit'                         => 'Изменить',
 
     // delete records
     'Delete'                       => 'Удалить',
@@ -42,7 +43,6 @@ return array(
     'Yes'                          => 'Да',
     'No'                           => 'Нет',
     'Cancel'                       => 'Отмена',
-    'Edit'                         => 'Изменить',
 
     // errors
     'Error'                        => 'Ошибка',
