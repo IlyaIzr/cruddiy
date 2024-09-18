@@ -42,6 +42,7 @@ return array(
     'Yes'                          => 'Да',
     'No'                           => 'Нет',
     'Cancel'                       => 'Отмена',
+    'Edit'                         => 'Изменить',
 
     // errors
     'Error'                        => 'Ошибка',
